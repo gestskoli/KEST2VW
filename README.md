@@ -1,6 +1,9 @@
 # KEST2VW
 
 ## PowerShell
-- [Efni](./UmPowerShell.md)
-- [Æfingaverkefni](./Aefingaverkefni.md)
-- [Skilaverkefni](./verkefni4.md)
+- [Efni](./PowerShell/UmPowerShell.md)
+- [Æfingaverkefni](./PowerShell/Aefingaverkefni.md)
+- [Skilaverkefni](./Verkefni/verkefni4.md)
+
+## Lokaverkefni Vor 2020
+- [Lokaverkefni](./Verkefni/lokaverkefni_v20.md)

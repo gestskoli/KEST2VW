@@ -24,3 +24,9 @@ Búð til hópinn *Allir* en í honum eiga allir notendurnir að vera. Þarf ekk
 
 ### 3. Skrár, möppur og réttindi (20%)
 Hver hópur þarf að eiga sér sína eigin möppu sem eingöngu þeir sem eru í þeim hóp hafa aðgang að. Síðan þarf að vera til mappan Sameign sem allir notendurnir hafa aðgang að. Búðu til möppuna *Gögn* á rót C drifsins. Búðu svo möppurnar fyrir hópana til í möppunni Gögn og stilltu svo réttindin á möppunum.
+
+### 4. Öryggismál
+TODO:
+
+### 5. Netkerfi
+Kemur síðar

@@ -18,6 +18,8 @@ Skrifaðu skriftu í PowerShell sem býr til notendurna í þessari [skrá](http
 
 Gott er að skoða [`Import-Csv`](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/import-csv?view=powershell-7) skipunina í PowerShell fyrir lausnina á þessum lið. Sjá dæmi um notkun [hér](https://github.com/gestskoli/KEST2VW/blob/master/PowerShell/UmPowerShell.md#lesa-úr-csv-skrá).
 
+**Tryggið að allir notendurnir geti skráð sig inn.**
+
 Búð til hópinn *Allir* en í honum eiga allir notendurnir að vera. Þarf ekki að leysa með PowerShell.
 
 ### 3. Skrár, möppur og réttindi (20%)

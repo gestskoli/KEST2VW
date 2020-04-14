@@ -20,13 +20,17 @@ Gott er að skoða [`Import-Csv`](https://docs.microsoft.com/en-us/powershell/mo
 
 **Tryggið að allir notendurnir geti skráð sig inn.**
 
-Búð til hópinn *Allir* en í honum eiga allir notendurnir að vera. Þarf ekki að leysa með PowerShell.
+Búðu til hópinn *Allir* en í honum eiga allir notendurnir að vera. Þarf ekki að leysa með PowerShell.
 
 ### 3. Skrár, möppur og réttindi (20%)
-Hver hópur þarf að eiga sér sína eigin möppu sem eingöngu þeir sem eru í þeim hóp hafa aðgang að. Síðan þarf að vera til mappan Sameign sem allir notendurnir hafa aðgang að. Búðu til möppuna *Gögn* á rót C drifsins. Búðu svo möppurnar fyrir hópana til í möppunni Gögn og stilltu svo réttindin á möppunum.
+Hver hópur þarf að eiga sér sína eigin möppu sem eingöngu þeir sem eru í þeim hóp hafa aðgang að. Síðan þarf að vera til mappan Sameign sem allir notendurnir hafa aðgang að. Búðu til möppuna *Gögn* á rót C drifsins. Búðu svo möppurnar fyrir hópana til í möppunni Gögn og stilltu svo réttindin á möppunum. Búðu til textaskrá í hverri möppu sem heitir eftir nafninu á möppunni.
 
-### 4. Öryggismál
-TODO:
+### 4. Öryggismál (10%)
+  - Breyttu lykilorðareglunni þannnig að:
+    - Lágmarkslengd lykilorða verður 8 stafir.
+    - Einföld lykilorð eru ekki heimil.
+  - Eldveggur: 
+    - Lokað fyrir allt nema ping.
 
-### 5. Netkerfi
-Kemur síðar
+### 5. Netkerfi (30%)
+Leystu [þetta](../Annad/Lokaverkefni_V20.pka) PacketTracer verkefni. Áður en þú byrjar á því gæti verið gott að skoða [þetta](../Annad/10.2.1.7%20Packet%20Tracer%20-%20Web%20and%20Email.pka) æfingaverkefni.

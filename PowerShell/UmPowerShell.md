@@ -9,6 +9,7 @@ PowerShell er skriftumál fram Microsoft sem byggir á .NET
 * [Föll](#föll)
 * [Lesa frá console](#lesa-frá-console)
 * [Vinna með tölur sem texta](#vinna-með-tölur-sem-texta)
+* [Lesa úr CSV skrá](#lesa-%c3%bar-csv-skr%c3%a1)
 * [Skrifa í CSV skrá](#skrifa-í-csv-skrá)
 * [Athugasemdir í kóða](#athugasemdir-í-kóða)
 
@@ -240,6 +241,30 @@ $iTala = 3
 "fTalan er {0:N2} með tveimur aukastöfum en iTala {0:N3} með þremur aukastöfum" -f $fTala -f $iTala
 # eða
 "fTalan er {0:N2} með tveimur aukastöfum en iTala {1:N1} með einum aukastaf" -f $fTala, $iTala
+```
+## Lesa úr CSV skrá
+Skipunin `Import-Csv` er notuð til að lesa úr CSV skrám.
+
+Dæmi um CSV skrá:
+```
+nafn,heimili,simi
+Jón,Hvergigata 10,555-1234
+Jóna,Séstvarlagata 20,555-1235
+```
+Ef við viljum vinna með gögnin úr þessari skrá myndum við byrja á að lesa skránna inn í breytu:
+```powershell
+$gogn = Import-Csv nafniðÁskránni.csv
+```
+Núna inniheldur breytan `$gogn` allt sem er í CSV skránni. Núna má þá fara í gegnum hverja færslu í skránni með `foreach`:
+```powershell
+foreach($faersla in $gogn) {
+    $faersla.nafn " á heima á " $faersla.heimili " og síminn er " $faersla.simi
+}
+```
+Þetta myndi þá skrifa út:
+```
+Jón á heima á Hvergigata 10 og síminn er 555-1234
+Jóna á heima á Séstvarlagata 20 og síminn er 555-1235
 ```
 ## Skrifa í CSV skrá
 Þægilegasta leiðin til að skrifa eitthvað í CSV skrá er að búa til fylki sem inniheldur gögnin sem skrifa á í skránna.

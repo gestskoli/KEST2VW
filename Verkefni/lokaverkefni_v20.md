@@ -13,9 +13,12 @@ Verkefnið skal halda utan um í lokaðri geymslu á [GitHub](https://github.com
 - Breyttu nafninu (e. computer name) á tölvunni í KEST2VW-[nafnið þitt] (án íslenskra stafa og bila (e. space)).
 - Búðu til notendahópana (e. user group) Innkaup, Sala og Yfirstjórn.
 
-### 2. PowerShell (20%)
-Skrifaðu skriftu í PowerShell sem býr til notendurna í þessari [skrá](../Annad/notendur.csv). Skriftan á að búa til notendurna út frá þeim upplýsingum sem eru í skánni ásamt því að setja þá í hópana sem þú bjóst til í liðnum hér fyrir ofan. Athugaðu að líklega þarftu líka að setja þá í aðra hópa.
+### 2. Notendur (20%)
+Skrifaðu skriftu í PowerShell sem býr til notendurna í þessari [skrá](https://raw.githubusercontent.com/gestskoli/KEST2VW/master/Annad/notendur.csv). Skriftan á að búa til notendurna út frá þeim upplýsingum sem eru í skánni ásamt því að setja þá í hópana sem þú bjóst til í liðnum hér fyrir ofan. Athugaðu að líklega þarftu líka að setja þá í aðra hópa.
 
 Gott er að skoða [`Import-Csv`](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/import-csv?view=powershell-7) skipunina í PowerShell fyrir lausnina á þessum lið.
 
+Búð til hópinn *Allir* en í honum eiga allir notendurnir að vera. Þarf ekki að leysa með PowerShell.
+
 ### 3. Skrár, möppur og réttindi (20%)
+Hver hópur þarf að eiga sér sína eigin möppu sem eingöngu þeir sem eru í þeim hóp hafa aðgang að. Síðan þarf að vera til mappan Sameign sem allir notendurnir hafa aðgang að. Búðu til möppuna *Gögn* á rót C drifsins. Búðu svo möppurnar fyrir hópana til í möppunni Gögn og stilltu svo réttindin á möppunum.

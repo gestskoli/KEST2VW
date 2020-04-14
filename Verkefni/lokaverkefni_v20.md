@@ -16,7 +16,7 @@ Verkefnið skal halda utan um í lokaðri geymslu á [GitHub](https://github.com
 ### 2. Notendur (20%)
 Skrifaðu skriftu í PowerShell sem býr til notendurna í þessari [skrá](https://raw.githubusercontent.com/gestskoli/KEST2VW/master/Annad/notendur.csv). Skriftan á að búa til notendurna út frá þeim upplýsingum sem eru í skánni ásamt því að setja þá í hópana sem þú bjóst til í liðnum hér fyrir ofan. Athugaðu að líklega þarftu líka að setja þá í aðra hópa.
 
-Gott er að skoða [`Import-Csv`](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/import-csv?view=powershell-7) skipunina í PowerShell fyrir lausnina á þessum lið.
+Gott er að skoða [`Import-Csv`](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/import-csv?view=powershell-7) skipunina í PowerShell fyrir lausnina á þessum lið. Sjá dæmi um notkun [hér](https://github.com/gestskoli/KEST2VW/blob/master/PowerShell/UmPowerShell.md#lesa-úr-csv-skrá).
 
 Búð til hópinn *Allir* en í honum eiga allir notendurnir að vera. Þarf ekki að leysa með PowerShell.
 

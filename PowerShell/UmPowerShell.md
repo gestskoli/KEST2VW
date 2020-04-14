@@ -258,7 +258,7 @@ $gogn = Import-Csv nafniðÁskránni.csv
 Núna inniheldur breytan `$gogn` allt sem er í CSV skránni. Núna má þá fara í gegnum hverja færslu í skránni með `foreach`:
 ```powershell
 foreach($faersla in $gogn) {
-    $faersla.nafn " á heima á " $faersla.heimili " og síminn er " $faersla.simi
+    $faersla.nafn + " á heima á " + $faersla.heimili + " og síminn er " + $faersla.simi
 }
 ```
 Þetta myndi þá skrifa út:

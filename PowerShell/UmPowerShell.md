@@ -220,7 +220,6 @@ $a.GetType()
 $a = $a -as [int]
 # eða 
 $a = 0 + $a
-$a = $a + 0
 ```
 **Athugið** að ef verið er að vinna með ```char``` þarf að nota aðrar aðferðir.
 ```powershell

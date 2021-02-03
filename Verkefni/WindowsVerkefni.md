@@ -19,7 +19,7 @@ Gerið eftirfarandi verkefni og skilið svo hér inn hlekk á github síðuna se
 - 11.4.2.7 Lab - File System Commands
 - 11.4.3.2 Lab - Disk CLI Commands
 - 11.4.4.2 Lab - Task and System CLI Commands
-- 11.4.5.3 Lab - Other Useful Commands, sleppa step 2
+- 11.4.5.3 Lab - Other Useful Commands, sleppa step 2 í part 2
 
 Í eftirfarandi verkefnum þurfa tveir hópar að vinna saman.
 - 11.5.2.4 Lab - Share Resources

@@ -12,7 +12,7 @@ Gerið eftirfarandi verkefni og skilið svo hér inn hlekk á github síðuna se
 - 11.2.2.3 Lab - User Accounts
 - 11.2.5.8 Lab - Manage Virtual Memory
 - 11.2.6.2 Lab - Use Device Manager
-- 11.3.1.11 Lab - Monitor and Manage System Resources - Sleppa Windows Defender hlutanum
+- 11.3.1.11 Lab - Monitor and Manage System Resources - Sleppa Windows Defender hlutanum, byrja á Part 2 (print spooler)
 - 11.3.2.7 Lab - System Utilities
 - 11.3.2.8 Lab - Manage System Files
 - 11.4.1.5 Lab - Work in the Windows Command Shell

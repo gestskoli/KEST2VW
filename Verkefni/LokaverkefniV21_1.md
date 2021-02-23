@@ -4,15 +4,13 @@ Verkefnið skal halda utan um í lokaðri geymslu á [GitHub](https://github.com
 Þið þurfið að halda dagbók á github um hvað þið gerið og hvenær.
 
 ## Verkefnið
-Þú hefur verið fengin(n) til að setja upp eina tölvu sem frumgerð fyrir ungt fyrirtæki þar sem starfa 9 starfsmenn. 
-
-Þið vinnið áfram með tölvuna sem þið settuð upp á önninni.
+Þið eigið að setja upp eina tölvu sem frumgerð fyrir ungt hugbúnaðarfyrirtæki þar sem starfa 9 starfsmenn. 
 
 ### 1. Uppsetning á Windows og grunn stillingar (20%)
 - Setjið upp nýja Windows 10 uppsetningu á tölvuna.
 - Passið að velja **Domain join instead** þegar það er í boði [sjá mynd](../Myndir/MicrosoftSignIn.png).
 - Búið ykkur til sem notanda í uppsetningarferlinu.
-- Breyttu nafninu (e. computer name) á tölvunni í KEST2VW-[nöfning ykkar] (án íslenskra stafa og bila (e. space)).
+- Breytið nafninu (e. computer name) á tölvunni í KEST2VW-[nöfnin ykkar] (án íslenskra stafa og bila (e. space)).
 - Setjið upp Python3 (64 bita) og VS Code (með Python stuðningi).
 - Setjið upp annan hugbúnað eftir þörfum.
 

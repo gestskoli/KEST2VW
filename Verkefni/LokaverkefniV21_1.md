@@ -38,7 +38,7 @@ Hver hópur þarf að eiga sér sína eigin möppu sem eingöngu þeir sem eru �
 
 ### 5. Netkerfi (30%)
 
-Leysið [þetta](../Annad/Lokaverkefni_V20.pka) PacketTracer verkefni. Áður en þið byrjið á því gæti verið gott að skoða [þetta](../Annad/10.2.1.7%20Packet%20Tracer%20-%20Web%20and%20Email.pka) æfingaverkefni. 
+Leysið [þetta](https://github.com/gestskoli/KEST2VW/raw/master/Annad/Lokaverkefni_V20.pka) PacketTracer verkefni. Áður en þið byrjið á því gæti verið gott að skoða [þetta](https://github.com/gestskoli/KEST2VW/raw/master/Annad/10.2.1.7%20Packet%20Tracer%20-%20Web%20and%20Email.pka) æfingaverkefni. 
 
 ## Skil á verkefninu
 

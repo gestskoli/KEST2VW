@@ -17,9 +17,9 @@ Verkefnið skal halda utan um í lokaðri geymslu á [GitHub](https://github.com
 
 ### 2. Notendur (20%)
 
-Búið til notendahópana (e. user group) Innkaup, Sala og Yfirstjórn.
+Búið til notendahópana (e. user group) Innkaup, Sala, Yfirstjórn og Allir.
 
-Skrifið svo skriftu í PowerShell sem býr til notendurna í þessari [skrá](https://raw.githubusercontent.com/gestskoli/KEST2VW/master/Annad/notendur.csv). Skriftan á að búa til notendurna út frá þeim upplýsingum sem eru í skránni ásamt því að setja þá í hópana sem þið gerðuð hér fyrir ofan. Athugið að líklega þarf líka að setja þá í aðra hópa.
+Skrifið svo skriftu í PowerShell sem býr til notendurna í þessari [skrá](https://raw.githubusercontent.com/gestskoli/KEST2VW/master/Annad/notendur.csv). Skriftan á að búa til notendurna út frá þeim upplýsingum sem eru í skránni ásamt því að setja þá í hópana sem þið gerðuð hér fyrir ofan. Athugið að líklega þarf líka að setja þá í aðra hópa, t.d. Allir hópinn.
 
 Gott er að skoða [`Import-Csv`](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/import-csv?view=powershell-7) skipunina í PowerShell fyrir lausnina á þessum lið. Sjá dæmi um notkun [hér](https://github.com/gestskoli/KEST2VW/blob/master/PowerShell/UmPowerShell.md#lesa-úr-csv-skrá).
 

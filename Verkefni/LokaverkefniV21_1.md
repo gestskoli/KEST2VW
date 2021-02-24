@@ -17,15 +17,13 @@ Verkefnið skal halda utan um í lokaðri geymslu á [GitHub](https://github.com
 
 ### 2. Notendur (20%)
 
-Búið til notendahópana (e. user group) Innkaup, Sala, Yfirstjórn og Allir.
+Búið til notendahópana (e. user group) Innkaup, Sala, Yfirstjórn og Allir. Allir starfsmenn eiga að vera í einnum deildarhóp og síðan í Allir hópnum.
 
 Skrifið svo skriftu í PowerShell sem býr til notendurna í þessari [skrá](https://raw.githubusercontent.com/gestskoli/KEST2VW/master/Annad/notendur.csv). Skriftan á að búa til notendurna út frá þeim upplýsingum sem eru í skránni ásamt því að setja þá í hópana sem þið gerðuð hér fyrir ofan. Athugið að líklega þarf líka að setja þá í aðra hópa, t.d. Allir hópinn.
 
 Gott er að skoða [`Import-Csv`](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/import-csv?view=powershell-7) skipunina í PowerShell fyrir lausnina á þessum lið. Sjá dæmi um notkun [hér](https://github.com/gestskoli/KEST2VW/blob/master/PowerShell/UmPowerShell.md#lesa-úr-csv-skrá).
 
 **Tryggið að allir notendurnir geti skráð sig inn.**
-
-Búið til hópinn *Allir* en í honum eiga hóparnir Innkaup, Sala og Yfirstjórn að vera. Þetta þarf ekki að leysa með PowerShell en það má.
 
 ### 3. Skrár, möppur og réttindi (20%)
 Hver hópur þarf að eiga sér sína eigin möppu sem eingöngu þeir sem eru í þeim hóp hafa aðgang að. Síðan þarf að vera til mappan Sameign sem allir notendurnir hafa aðgang að. Búðu til möppuna *Gögn* á rót C drifsins. Búið svo möppurnar fyrir hópana til í möppunni Gögn og stillið svo réttindin á möppunum. Búið til textaskrá í hverri möppu sem heitir eftir nafninu á möppunni.

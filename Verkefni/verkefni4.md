@@ -1,6 +1,6 @@
 # KEST2VW - Skilaverkefni 4 - (5%)
 
-Hópverkefni, sömu hópar og í samsetningaverkefninu.
+**Athugið að verkefnið er einstaklingsverkefni.** Ef tveir eða fleiri skila sömu lausn verður gefið 0 (núll) fyrir þær lausnir.
 
 Skrifaðu forrit sem getur búið til notanda á Windows tölvu. Forritið á að spyrja um **notendanafn**, **fullt nafn** og **lykilorð**. Forritið notar svo þessar upplýsingar til að búa til notandann og setur hann í notendahópinn **Users**.
 

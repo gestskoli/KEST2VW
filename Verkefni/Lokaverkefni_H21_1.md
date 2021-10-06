@@ -42,6 +42,6 @@ Leysið [þetta](https://github.com/gestskoli/KEST2VW/raw/master/Annad/Lokaverke
 
 ## Skil á verkefninu
 
-Liðir 1 til og með 4 sýnið þið kennaranum ykkar.
+Liði 1 til og með 4 sýnið þið kennaranum ykkar.
 
-Liður 5, skila á Innu.
+Lið 5 á að skila á Innu.

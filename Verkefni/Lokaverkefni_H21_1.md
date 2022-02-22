@@ -9,7 +9,7 @@ Verkefnið skal halda utan um í lokaðri geymslu á [GitHub](https://github.com
 
 ### 1. Uppsetning á Windows og grunn stillingar (20%)
 - Setjið upp nýja Windows 10 uppsetningu á tölvuna.
-- Passið að velja **Domain join instead** þegar það er í boði [sjá mynd](../Myndir/MicrosoftSignIn.png).
+- Passið að velja **Set up ofr organization** og **Domain join instead** þegar það er í boði [sjá mynd](../Myndir/MicrosoftSignIn.png).
 - Búið ykkur til sem notanda í uppsetningarferlinu.
 - Breytið nafninu (e. computer name) á tölvunni í KEST2VW-[nafnið ykkar] (án íslenskra stafa og bila (e. space)).
 - Setjið upp Python3 (64 bita) og VS Code (með Python stuðningi).

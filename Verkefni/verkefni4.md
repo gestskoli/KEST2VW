@@ -18,7 +18,6 @@ Sýnið svo kennaranum kóðann virka og að hægt sé að skrá notandann inn. 
 
 Skipanir sem gott er að kynna sér:
 ```powershell
-ConvertTo-SecureString
 New-LocalUser
 Get-LocalUser
 Add-LocalGroupMember

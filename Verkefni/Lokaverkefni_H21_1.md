@@ -34,7 +34,7 @@ Hver hópur þarf að eiga sér sína eigin möppu sem eingöngu þeir sem eru �
     - Lágmarkslengd lykilorða verður 8 stafir.
     - Einföld lykilorð eru ekki heimil.
   - Eldveggur: 
-    - Lokað fyrir allt nema ping.
+    - Lokað fyrir alla innkomandi netumferð nema ping.
 
 ### 5. Netkerfi (30%)
 

@@ -1,4 +1,4 @@
-# KEST2VW Lokaverkefni haust 2022 (20%)
+# KEST2VW Lokaverkefni vor 2023 (20%)
 
 Verkefnið skal halda utan um í lokaðri geymslu á [GitHub](https://github.com), notið geymsluna sem þið hafið þegar gert fyrir áfangann. Skilið svo hlekknum á geymsluna í skilahólfið á Innu.
 
